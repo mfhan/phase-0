@@ -1,6 +1,6 @@
 
 
-![Site Map](/imgs/site-map.png )
+![Site Map](/site-map.png )
 
 
 ![Alt text](/path/to/img.jpg)
@@ -37,9 +37,10 @@ Even after the launch, the website must continue to provide new content in the f
 -- My site would essentially be a glorified resume displaying my two professional sides: as a journalist and as a web developer. It would include links to articles I've written or edited over the past years; blog posts; photos; GitHub
 
 **What is your target audience's interests and how do you see your site addressing them?**
+
 -- My target audience is the hiring manager at a major media or technology company eager to hire an experienced, multi-lingual journalist with web dev chops.
 
-**What is the primary "action" the user should take when coming to your site? Do you want them to search for information, contact you, or see your portfolio?**
+**What is the primary "action" the user should take when coming to your site?**
 
 -- I want my user to browse through my articles, blog posts and photos and get a (hopefully positive) idea of how I can fit in their organization. I want them to contact me right away with a high-six-figure salary offer + stock options.
 
@@ -57,4 +58,5 @@ While user experience and usability are often viewed as synonymous, UX addresses
 
 
 **Which parts of the challenge did you find tedious?**
+
 -- Actually, every component of this challenge was informative and engaging.
