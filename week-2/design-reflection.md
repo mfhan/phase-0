@@ -3,14 +3,6 @@
 ![Site Map](../week-2/imgs/site-map.png )
 
 
-<img src="../week-2/imgs/site-map.png">
-
-![Alt text](/path/to/img.jpg)
-
-![Alt text](/path/to/img.jpg "Optional title")
-
-
-
 **What are the 6 Phases of Web Design?**
 
 1. Information gathering is the first step of web design.
