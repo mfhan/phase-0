@@ -1,9 +1,9 @@
 
 
-![Site Map](../site-map.png )
+![Site Map](../week-2/imgs/site-map.png )
 
 
-<img src="../site-map.png">
+<img src="../week-2/imgs/site-map.png">
 
 ![Alt text](/path/to/img.jpg)
 
