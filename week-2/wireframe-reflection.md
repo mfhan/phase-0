@@ -1,11 +1,13 @@
 ##Wireframe-reflection##
 
 
-![Site Map](../mfhan.github.io/blog/wireframe-index.png)
+![Site Map](blog/wireframe-index.png)
+![Site Map](blog/wireframe-blog-index.png)
 
-![Blog Map](../mfhan.github.io/blog/wireframe-blog-index.png)
 
+![Blog Map](blog/wireframe-blog-index.png)
 
+![Alt text](imgs/wireframe-blog-index.png)
 
 
 **1. What is a wireframe?**
