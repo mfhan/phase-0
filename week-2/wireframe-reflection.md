@@ -1,9 +1,12 @@
 ##Wireframe-reflection##
 
+![Site Map](https://github.com/mfhan/mfhan.github.io/blob/master/imgs/wireframe-blog-index.png)
 
-![Site Map](blog/wireframe-index.png)
-![Site Map](blog/wireframe-blog-index.png)
+![Site Map](https://github.com/mfhan/mfhan.github.io/blob/master/imgs/wireframe-index.png)
 
+![Site Map](http://github.com/mfhan.github.io/blog/wireframe-index.png)
+![Site Map](../mfhan.github.io/blog/wireframe-blog-index.png)
+github.com/mfhan/phase-0/blob/...
 
 ![Blog Map](blog/wireframe-blog-index.png)
 
