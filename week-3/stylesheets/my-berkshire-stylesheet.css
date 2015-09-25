@@ -1,4 +1,81 @@
-
-html {
-  background-color: red;
+body {
+    color: #000080;
 }
+
+a {
+    color: #800080;
+}
+
+a:visited {
+    color: #ff0000;
+}
+
+* {
+    background-color: #ffffff;
+}
+
+li {
+    float: left;
+    width: 50%
+}
+
+header {
+    font-style: bold;
+    font-size: 18px;
+    float: center;
+    display: block;
+}
+
+span {
+    font-size: 60px;
+}
+.geico{
+   border-right: 1px solid #000000;
+}
+
+.comments {
+    font-size: 8px;
+}
+.bottom-text {
+    font-size: 12px;
+}
+
+/*
+1. What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+-- It's crucial to have the right syntax so the most important formatting document can be actually operational. It is also important to give it a predictable and recognizable name.
+
+
+
+2. What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+-- We used a float: left; and width: 50% command to make sure we obtained two columns
+-- We also used center and block display
+
+
+3. What CSS did you use to modify the element style (like size, color, etc.)
+-- we used style sheets on body, links, visited links, lists, header, span, images, comments and text bottom
+
+4. Did you modify the HTML to include classes or ids? If so, which did you chose and why? If you didn't, how would you know which one to add to your HTML?
+-- we chose classes such as : .geico; .comments; .bottom-text
+-- we didn't use ids, but we could have used it for the Geico image
+
+5. When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+-- we must admit we were thoroughly stomped by the instruction (release 1, point 5) NOT to use the <hr> tag. As a result, our page looks definitely less put-together than the Berkshire Hathaway one.
+
+We tried a barrage of solutions, among them
+:
+1. A line-separator:
+HTML <div class="line-separator"></div>
+CSS
+.line-separator{
+height:1px;
+border-bottom:1px solid black;
+}
+
+2. a div.border:
+div.border { border-bottom: 1px solid black }
+
+3. A list:
+li { border-right: 1px solid black; }
+
+*/
