@@ -2,20 +2,33 @@
 
 ![challenge1](https://github.com/mfhan/phase-0/blob/master/week-2/imgs/screenshots/1_colors.png)
 
+
 ![challenge2](https://github.com/mfhan/phase-0/blob/master/week-2/imgs/screenshots/2_stack.png)
 
+
 ![challenge3](https://github.com/mfhan/phase-0/blob/master/week-2/imgs/screenshots/3_row.png)
+
+
 ![challenge4](https://github.com/mfhan/phase-0/blob/master/week-2/imgs/screenshots/4_equidistant.png)
+
+
 ![challenge5](https://github.com/mfhan/phase-0/blob/master/week-2/imgs/screenshots/5_squares.png)
+
+
 ![challenge6](https://github.com/mfhan/phase-0/blob/master/week-2/imgs/screenshots/6_footer.png)
+
+
 ![challenge7](https://github.com/mfhan/phase-0/blob/master/week-2/imgs/screenshots/7_header.png)
 
+
 ![challenge8](https://github.com/mfhan/phase-0/blob/master/week-2/imgs/screenshots/8_sidebar.png)
+
+
 ![challenge9](https://github.com/mfhan/phase-0/blob/master/week-2/imgs/screenshots/9_adlib.png)
 
 
 1. How can you use Chrome's DevTools inspector to help you format or position elements?
--- We can use the inspector to manipulate the property and value of each element: size, color, margin padding, positioning etc. We can work on the <body> or <div> or any selector in order to modify an element's behavior.
+-- We can use the inspector to manipulate the property and value of each element: size, color, margin padding, positioning etc. We can work on the body or div or any selector in order to modify an element's behavior.
 
 2. How can you resize elements on the DOM using CSS?
 -- We can resize absolute width and height in pixels or ems;
