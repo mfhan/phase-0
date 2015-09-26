@@ -1,9 +1,9 @@
 
-![challenge1: change colors](../week-3/screenshots/1_change colors.png )
+![challenge1](../screenshots/1_change colors.png )
 
-![challenge2: column(../week-3/screenshots/2_stack.png )
+![challenge2](../week-3/screenshots/2_stack.png )
 
-![challenge3: row](../week-3/screenshots/3_row.png )
+![challenge3](../week-3/screenshots/3_row.png )
 
 1. How can you use Chrome's DevTools inspector to help you format or position elements?
 -- We can use the inspector to manipulate the property and value of each element: size, color, margin padding, positioning etc. We can work on the <body> or <div> or any selector in order to modify an element's behavior.
