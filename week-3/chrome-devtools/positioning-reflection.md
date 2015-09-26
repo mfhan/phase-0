@@ -1,5 +1,5 @@
 
-![challenge1](../screenshots/1_change colors.png )
+![challenge1](..week-2/imgs/screenshots/1_colors.png )
 
 ![challenge2](../week-3/screenshots/2_stack.png )
 
