@@ -1,0 +1,72 @@
+body{
+font: Geneva;
+font-size: 16px;
+}
+
+
+
+header {
+  width: 98%;
+  background-color: yellow;
+  padding: 10px;
+  border: 2px solid black;
+  background-image: url("heartocat.png");
+  background:
+  background-repeat: repeat;
+
+}
+
+
+.column-1 {
+  background-color: blue;
+  display: inline-block;
+  width: 48%;
+  padding-left: 13px;
+  margin-right: 7px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.column-2 {
+  background-color: green;
+  display: inline-block;
+  width: 48%;
+  padding-left: 13px;
+  margin-left: 8px;
+  margin-bottom: 15px;
+  margin-top: -17px;
+}
+
+footer {
+  bottom: 0;
+  width: 95%;
+  height: 50px;
+  background-color: red;
+  padding: 30px;
+  text-align: center
+  border: 2px solid black;
+}
+
+
+h1 {
+font: Geneva;
+font-style: bold;
+font-size: 32px;
+text-align: center;
+text-transform: uppercase;
+}
+
+h2 {
+font: Geneva;
+font-size: 24px;
+font-style: bold;
+text-align: center;
+text-transform: uppercase;
+}
+
+p {
+font: Geneva;
+font-size: 16px;
+
+}
+
