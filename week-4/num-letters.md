@@ -38,6 +38,7 @@ end
 ###Reflection (Questions consolidated from Release 1 and Release 7)
 
 ** What does puts do?**
+
 The Puts command writes on the screen whatever comes after it, be it a string, a variable, a program. It prints the output to the console with a new line but doesn't actually pass on any information or return anything.
 The P command returns the evaluated code AND prints to the console
 The Print command prints the output to the console without a new line and without returning anything.
@@ -51,8 +52,7 @@ A float division returns the product of a division down to its smallest decimal 
 
 
 **How does Ruby handle addition, subtraction, multiplication, and division of numbers?**
-Ruby uses symbols such as +, -, * and / between integer or float variables to handle these operatio
-ns
+Ruby uses symbols such as +, -, * and / between integer or float variables to handle these operations
 
 **What are strings? Why and when would you use them?**
 A string is an object that holds an arbitrary sequence of one or more elements. The interpreter treats anything surrounded with single quotes or double quotes as a string. Besides letters, a string can contain any number of variables; it can have punctuation, digits, symbols, spaces -- and even be empty.
