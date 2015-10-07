@@ -4,7 +4,7 @@
 
 
 # Your Solution Below
-my_info = {:first_name => "Barack", :last_name => "Obama", :hometown => "Honolulu", :age => "54" }
+my_info = {:first_name => "Barack", :last_name => "Obama", :hometown => "Honolulu", :age => 54}
 
 
 my_info[:first_name]
