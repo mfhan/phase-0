@@ -11,15 +11,16 @@
 # If +list_of_words+ is empty the method should return nil
 
 #Your Solution Below
+# Despite hours spent on permutations and looking for the right syntax, this code does NOT work, and I would appreciate some guidance on how I can get more comfortable with these expressions. I worked completely on my own on this problem.
+
 
 def shortest_string(list_of_words)
-
- if (list_of_words).length == 0
+  shortest_string >1
+ if shortest_string[]
     return nil
-end
+  end
 
  until (list_of_words).length == 1
-
    if  list_of_words.(0) > list_of_words(-1)
       list_of_words.shift
     else

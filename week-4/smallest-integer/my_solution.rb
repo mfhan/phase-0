@@ -1,6 +1,6 @@
 # Smallest Integer
 
-# I worked on this challenge [by myself, with a VERY SMALL formatting help from a friend; I'll develop on this in my Week 4 feedback. Like so many other DBC students this week, I've felt discouraged and utterly defeated by my own lack of familiarity with Ruby syntax. If I hadn't received a quick feedback on moving ONE LINE of code to the right position, I would not have been able to resolve 4.6.1 and the rest].
+# I worked on this challenge [by myself, with a VERY SMALL formatting help from a friend; the .shift and .pop methods were entirely of my own initiative. If I hadn't received a quick feedback on moving ONE element of code (END) to the right position, I would not have been able to resolve 4.6.1.
 
 # smallest_integer is a method that takes an array of integers as its input
 # and returns the smallest integer in the array
@@ -32,10 +32,11 @@ def smallest_integer(list_of_nums)
 
 end
 
-# REFACTOR:
+# REFACTOR: THIS CODE DOESN'T WORK
 #def smallest_integer(list_of_nums)
-#  (list_of_nums).min
-#end
+#  list_of_nums.sort
+#  return list_of_nums.(0)
+end
 
 
 
