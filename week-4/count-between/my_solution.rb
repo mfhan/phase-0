@@ -21,7 +21,7 @@ def count_between(list_of_integers, lower_bound, upper_bound)
     if list_of_integers.length == 0
        return 0
 
-    elsif  integers >= lower_bound.to_i || integers <= upper_bound.to_i
+    elsif  integers >= lower_bound.to_i && integers <= upper_bound.to_i
 
      count += 1
       return integers.length
@@ -30,5 +30,5 @@ def count_between(list_of_integers, lower_bound, upper_bound)
 end
 
 
-
+#count_between([35,164, 6, 32, 97], 8, 122)
 
