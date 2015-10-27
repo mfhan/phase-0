@@ -67,9 +67,12 @@ adam.children = terah.children;
 // In the reflection section of the manipulating_objects.js file, answer the following questions:
 
 // What tests did you have trouble passing? What did you do to make it pass? Why did that work?
+//My answer on "terah.spouse = adam;" didn't pass, and I am looking forward to the explanation
+
 // How difficult was it to add and delete properties outside of the object itself?
+// It took knowing the correct syntax
 // What did you learn about manipulating objects in this challenge?
-// //
+// That, just like Ruby, JS needs a specific set of syntactic elements to make that happen.
 //
 //
 //
