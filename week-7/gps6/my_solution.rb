@@ -1,10 +1,10 @@
 # Virus Predictor
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge [by myself, with: Ronny Ewanek ].
 # We spent [#] hours on this challenge.
 
 # EXPLANATION OF require_relative
-#
+#  Require_relative allows the loading of a file that is relative to the file in which the require_relative resides. It produces a direct link to the desired file, instead of traversing the load path in search of the file.
 #
 require_relative 'state_data'
 
@@ -85,3 +85,28 @@ alaska.virus_effects
 
 #=======================================================================
 # Reflection Section
+
+# Release 5:
+# Pseudocode:
+#    LOOP through the hash
+#    Create an instance of virus predictor for each state in STATE_DATA
+#    CALL virus effects with appropriate args on each instance
+
+# STATE_DATA.each do |state, data|
+#   state_of_origin = VirusPredictor.new(state, STATE_DATA[state][:population_density],     STATE_DATA[state][:population])
+#   state_of_origin.virus_effects
+#    end
+# end
+
+#We put the code outside of the class as it is essentially a driver code
+
+
+# What are the differences between the two hash syntaxes shown in the state_data file?
+#   The first nested hash is using what's known as a "hash rocket" and the second nested hash is using symbols. The hash rocket makes it easier to connect a key and its value(s).
+# What does require_relative do? How is it different from require?
+#   Require_relative allows the loading of a file that is relative to the file in which the require_relative resides. It produces a direct link to the desired file, instead of traversing the load path in search of the file.
+# What are some ways to iterate through a hash?
+#  .each, .times
+# When refactoring virus_effects, what stood out to you about the variables, if anything?
+# What concept did you most solidify in this challenge?
+#   Accessing nested hashes
